@@ -1,0 +1,19 @@
+# Procesamiento de datos
+pandas==1.5.3
+pyarrow==11.0.0
+
+# Azure SDKs
+azure-storage-blob==12.16.0
+azure-eventhub==5.11.0
+azure-servicebus==7.11.0
+
+# API y servidor
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# LangChain y LLMs
+langchain==0.0.354
+openai==1.3.0
+
+# Otros útiles
+python-dotenv==1.0.0

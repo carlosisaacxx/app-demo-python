@@ -25,13 +25,20 @@ A lo largo de los commits podrás ver:
 ## 🛠️ Cómo usar este repositorio
 
 1. Clona este repositorio:
-   ```bash
+   ```cmd win
    git clone https://github.com/tu_usuario/tu_repositorio.git
    ```
-2. Instala las dependencias:
+2. Crea un entorno virtual:
+   ```cmd win
+   python -m venv env
+   env\Scripts\activate
+   ```
+   
+3. Instala las dependencias:
    ```bash
    pip install -r requirements.txt
    ```
-3. Revisa los scripts y los commits paso a paso para comprender los cambios y el progreso.
+
+4. Revisa los scripts y los commits paso a paso para comprender los cambios y el progreso.
 
 💡 Este repositorio es un reflejo de conocimientos adquiridos en el ámbito de ingeniería de datos y servicios en la nube, documentando el proceso y compartiendo recursos útiles para proyectos reales.
