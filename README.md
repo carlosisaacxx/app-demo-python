@@ -1,4 +1,4 @@
-# 🚀 Azure & Python Data Engineering Portfolio
+# 🚀 Azure & Python Data Engineering Portafolio
 
 Este repositorio contiene ejemplos prácticos que demuestran mi conocimiento y experiencia trabajando con Azure, Python y diversas herramientas para el manejo de datos y servicios en la nube. Cada commit representa un progreso en la construcción de proyectos que integran estos componentes.
 
