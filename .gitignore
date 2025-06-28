@@ -197,5 +197,7 @@ cython_debug/
 enviroment/enviroment-dev.json
 
 # Other files
-lesson1/filecreate
-lesson1/filedownloaded
+.vs/
+dev-keys.txt
+data/filedownloaded
+data/filecreate
