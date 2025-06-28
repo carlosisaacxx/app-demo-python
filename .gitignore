@@ -128,7 +128,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -197,7 +196,7 @@ cython_debug/
 enviroment/enviroment-dev.json
 
 # Other files
-.vs/
-dev-keys.txt
-data/filedownloaded
 data/filecreate
+data/filedownloaded
+.vs
+dev-keys.txt
