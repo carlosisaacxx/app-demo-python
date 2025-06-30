@@ -46,7 +46,10 @@ A lo largo de los commits podrás ver:
 
 5. Escoge la opción a ejecutar:
     ```cmd win
-    py main.py
+    🔧 Utilidades disponibles:
+      1. Generar archivos de ejemplo
+      2. Subir y descargar archivos desde Azure Blob Storage
+      Selecciona una opción (1 o 2): 
     ```
 
 6. Revisa los scripts y los commits paso a paso para comprender los cambios y el progreso.
