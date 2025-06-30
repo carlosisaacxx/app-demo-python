@@ -5,7 +5,7 @@ def main():
     print("🔧 Utilidades disponibles:")
     print("1. Generar archivos de ejemplo")
     print("2. Subir y descargar archivos desde Azure Blob Storage")
-    choice = input("Selecciona una opción (1 o 2): ")
+    choice = input("Selecciona una opción: ")
 
     if choice == "1":
         generate_sample_files()
